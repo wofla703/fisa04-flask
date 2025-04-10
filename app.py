@@ -5,7 +5,7 @@ from flask_sqlalchemy import SQLAlchemy
 # flask db init
 # flask db migrate
 # flask db upgrade 
-
+#test 1
 import config
 
 db = SQLAlchemy()
