@@ -8,6 +8,7 @@ from flask_sqlalchemy import SQLAlchemy
 #test 1
 #test 2
 #test 3
+#test 4
 import config
 
 db = SQLAlchemy()
